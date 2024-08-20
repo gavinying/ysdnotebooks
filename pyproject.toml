@@ -9,6 +9,7 @@ package-mode = false
 python = ">=3.12,<4.0"
 python-dotenv = "^1.0.1"
 python-docx = "^1.1.2"
+docxtpl = "^0.18.0"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^3.5.0"
